@@ -14,5 +14,13 @@
 
 $(document).ready(function() {
 
-			
+		$(".1").click(function(){
+		$(".slide-o-1").slideToggle("slow");
+	});
+	$(".2").click(function(){
+		$(".slide-o-2").slideToggle("slow");
+	});
+	$(".3").click(function(){
+		$(".slide-o-3").slideToggle("slow");
+	});		
 });
