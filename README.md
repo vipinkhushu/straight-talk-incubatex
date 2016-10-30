@@ -1,2 +1,2 @@
 # straight-talk-incubatex
-Android application for https://straighttalk.hcltech.com/
+Its an Android application for https://straighttalk.hcltech.com/
